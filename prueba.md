@@ -1,2 +1,2 @@
-#Esto es una prueba
-#prueba linea 2
+#Esto es una prueba\n
+#Prueba linea 2
